@@ -1,2 +1,3 @@
 # vaibhav
-this is my first
+this is my first repository
+tuthor vaibhav savant
